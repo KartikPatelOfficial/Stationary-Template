@@ -32,8 +32,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Kartik Patel** - *Developer* - [KartikPatelOfficial](https://github.com/KartikPatelOfficial)
-* **Harsh Mistry** - *Contributer* - [hatshmistry3172](https://github.com/hatshmistry3172)
+* **Kartik Patel** - *Lead Developer* - [KartikPatelOfficial](https://github.com/KartikPatelOfficial)
+* **Harsh Mistry** - *Developer* - [hatshmistry3172](https://github.com/harshmistry3172)
 
 See also the list of [contributors](https://github.com/KartikPatelOfficial/Stationary-Template/graphs/contributors) who participated in this project.
 
