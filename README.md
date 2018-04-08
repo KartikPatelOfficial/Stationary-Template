@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Stationary Template
 
 Stationary template for school project.
@@ -48,8 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * For collage assignment
 * Inspired by templates
-||||||| merged common ancestors
-=======
+
 # Stationary Template
 
 Stationary template for school project.
@@ -97,4 +95,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * For collage assignment
 * Inspired by templates
->>>>>>> cbd2f86a72e5890ccf80f25eff8335c692c161f8
